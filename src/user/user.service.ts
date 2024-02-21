@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { passwordHash } from '../common/util/db.utils';
 import {
   BadRequestException,
@@ -18,7 +19,7 @@ export class UserService {
     @InjectRepository(User)
     private readonly userRepository: Repository<User>,
     private eventEmitter: EventEmitter2,
-  ) {}
+  ) { }
 
   async create(createUserDto: CreateUserDto) {
     try {
