@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { CurrentUser } from '../auth/decorator/loggedin-user';
 import { JwtAuthGuard } from '../auth/guard/jwt-auth.guard';
 import { ExpressRequestUser } from '../common/type/ExpressRequestUser';

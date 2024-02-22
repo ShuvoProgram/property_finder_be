@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { Exclude, Expose, Transform } from 'class-transformer';
 import { IsOptional, IsNotEmpty } from 'class-validator';
 

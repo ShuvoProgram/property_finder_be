@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 export type CloudinaryUploadResponse = {
   asset_id: string;
   public_id: string;

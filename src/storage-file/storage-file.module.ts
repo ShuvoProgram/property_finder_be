@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { Module } from '@nestjs/common';
 import { StorageFileService } from './storage-file.service';
 import { StorageFileController } from './storage-file.controller';

@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { BaseEntity } from '../../common/entity/base.entity';
 import { Property } from '../../property/entities/property.entity';
 import { StorageFile } from '../../storage-file/entities/storage-file.entity';

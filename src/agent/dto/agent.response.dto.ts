@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { PropertyResponseDto } from '../../property/dto/property.response.dto';
 import { StorageFileResponseDto } from '../../storage-file/dto/storagefile.response.dto';
 import { UserResponseDto } from '../../user/dto/user.response.dto';

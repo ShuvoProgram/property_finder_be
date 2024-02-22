@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { Test, TestingModule } from '@nestjs/testing';
 import { FloorPlanController } from './floor-plan.controller';
 import { FloorPlanService } from './floor-plan.service';

@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { Module } from '@nestjs/common';
 import { PropertyTypeService } from './property-type.service';
 import { PropertyTypeController } from './property-type.controller';

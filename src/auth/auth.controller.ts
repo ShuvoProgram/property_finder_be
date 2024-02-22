@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { RequestUser } from '../common/type/req-user';
 import { Controller, Post, Body, UseGuards, Req } from '@nestjs/common';
 import { ApiResponse, ApiTags } from '@nestjs/swagger';

@@ -19,7 +19,7 @@ export class UserService {
     @InjectRepository(User)
     private readonly userRepository: Repository<User>,
     private eventEmitter: EventEmitter2,
-  ) { }
+  ) {}
 
   async create(createUserDto: CreateUserDto) {
     try {

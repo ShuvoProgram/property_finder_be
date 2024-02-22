@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { StorageFileService } from '../storage-file/storage-file.service';
 import { UserService } from '../user/user.service';
 import {

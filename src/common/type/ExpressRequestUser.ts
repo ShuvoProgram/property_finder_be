@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 export type ExpressRequestUser = {
   id: number;
   created_at: string;

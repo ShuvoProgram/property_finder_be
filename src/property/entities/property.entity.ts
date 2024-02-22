@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import {
   Column,
   Entity,
@@ -6,6 +7,7 @@ import {
   ManyToOne,
   OneToMany,
 } from 'typeorm';
+
 import { Feature } from './feature.entity';
 import { FloorPlan } from './floor-plan.entity';
 import { Agent } from '../../agent/entities/agent.entity';

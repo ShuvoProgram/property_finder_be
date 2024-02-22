@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 export enum PropertyPurpose {
   RENT = 'RENT',
   SALE = 'SALE',

@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { StorageFileService } from '../../storage-file/storage-file.service';
 import { BadRequestException, Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';

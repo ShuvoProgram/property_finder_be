@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { Test, TestingModule } from '@nestjs/testing';
 import { PropertyTypeController } from './property-type.controller';
 import { PropertyTypeService } from './property-type.service';

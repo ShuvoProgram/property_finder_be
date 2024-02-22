@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { BadRequestException } from '@nestjs/common';
 import { CloudinaryUploadResponse } from '../type/cloudinary-upload';
 
